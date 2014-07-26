@@ -7,7 +7,7 @@ Through BeautifulSoup, Twilio, requests, time and regex, the program will text w
 
 Construct a Messages class. Messages class takes one argument, self.number. The class is fully automated, all it requires is the usage of the class method send_text().
 
-It's also controlled by time, so if time is < 9 AM, it won't run, or if time is > than 23:30, it wont run either.
+It's also controlled by time, so if time is < 9 AM, it won't run, or if time is > 23:30, it wont run either.
 
 
 Enjoy
