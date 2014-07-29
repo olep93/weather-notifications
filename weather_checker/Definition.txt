@@ -1,0 +1,15 @@
+Problem/Idea definition:
+
+
+It initially started with me running out of 4g on my phone, of course this would happen 
+while painting my parents' house, and outside of WiFi range. 
+Desperate to check the weather, I came up with an idea, that would make my life easier!
+
+In summation:
+
+My project idea was an app meant to be run on a server (daemon) that would webscrape 
+a weather forecast website, query said site scrape out the degrees and
+text them to me for free using Twilio.
+It would also post the time and date, and only run at times of necessity 
+(e.g between 10 AM and 11 PM.). So even when out of 4G, or 4G range, I would be able to check
+the degrees, to have something to complain about!
