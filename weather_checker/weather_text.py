@@ -14,7 +14,7 @@ while True:
     now = datetime.datetime.now()
     now_time = now.time()
     if datetime.time(9,00) <= now_time <= datetime.time(23,30):
-        msg_ole.send_text()
+        text_YourName.send_text()
         time.sleep(2*60*60)
     else:        
         print "Time is either before 9 or after 23.30. Texts will not be sent at this hour."
